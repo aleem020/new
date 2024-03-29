@@ -1,2 +1,2 @@
 print('aleem')
-print('kareem','naan')
+print('kareem','tiger')
